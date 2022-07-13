@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio>
 
 /**
  * parser - Receives the main string and all the necessary parameters to
